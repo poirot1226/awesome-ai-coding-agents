@@ -63,6 +63,7 @@ Core components and tooling required to build, run, and scale AI coding agents.
 - [Ollama](https://github.com/ollama/ollama) — Local model runtime for running LLMs on personal machines.
 - [Ray](https://github.com/ray-project/ray) — Distributed execution framework for scaling AI workloads.
 - [Modal](https://modal.com) — Serverless infrastructure for AI workloads and agents.
+- [Speakeasy](https://www.speakeasy.com/product/ai-control-plane) — AI control plane for governing access to MCP servers and Skills across coding agents, with policy enforcement and auditability.
 
 ## Testing & Evaluation
 
