@@ -75,6 +75,9 @@ Tools and frameworks for validating agent performance, reliability, and correctn
 - [HELM](https://github.com/stanford-crfm/helm) — Benchmarking framework for evaluating language models.
 - [Ragas](https://github.com/explodinggradients/ragas) — Evaluation toolkit for RAG systems and agent outputs.
 
+- **[NextReset AI quality guide](https://nextreset.ai/guide/ai-quality/)** – A source-linked guide to reading AI coding quality charts without treating a narrow test as universal performance.
+
+
 ## Datasets & Benchmarks
 
 Datasets and benchmarks used to evaluate coding agents and software engineering capabilities.
